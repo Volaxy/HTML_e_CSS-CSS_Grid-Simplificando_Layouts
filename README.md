@@ -34,4 +34,10 @@ URL do curso -> [CSS Grid - Simplificando Layouts](https://cursos.alura.com.br/c
 * Dizer para os elementos onde devem começar e terminar.
 * Definir espaçamento entre linhas e colunas.
 
-*** 
+***
+
+## 03 - Estilizando a Seção de Populares &#x1F516;
+* Que é possível haver um grid dentro de outro.
+* Calcular largura.
+
+***
