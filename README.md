@@ -41,3 +41,9 @@ URL do curso -> [CSS Grid - Simplificando Layouts](https://cursos.alura.com.br/c
 * Calcular largura.
 
 ***
+
+## 04 - Estilizando o Cabeçalho, Menu e Rodapé &#x1F516;
+* Centralizar conteúdo.
+* Adicionar bordas.
+* Aplicar estilo no *hover* do mouse.
+* Adicionar símbolo de *copyright*.
